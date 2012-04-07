@@ -1,0 +1,7 @@
+GuestBook GUI
+
+This example uses Directives and Scripting elements of JSP
+
+This example has a user interface that accepts data using an HTML form and displays the same on page submission.
+
+
